@@ -1,0 +1,4 @@
+
+          module.exports = require("/Users/Alysia/Documents/CODE/weekdays/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js");
+          require("/Users/Alysia/Documents/CODE/weekdays/node_modules/react-native/packager/transformer.js");
+          
